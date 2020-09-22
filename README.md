@@ -1,6 +1,7 @@
 # Time_series_RNN
 This repository contains the code to generate timeseries prediction with the RNN family
 
+This notebook is associated with an article [How to use Deep Learning with Time Series?](https://towardsdatascience.com/how-to-use-deep-learning-for-time-series-forecasting-3f8a399cf205)
 
 # Content
 
